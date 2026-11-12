@@ -1,0 +1,306 @@
+,age,sexe,profession,fumeur,alcoolique,niveau_AP_avant,duree_maladie,type_cancer,metastase,traitements,technique_chir,plan_traitement,pratique_AP,debut_AP,type_exercices,capacite_physique,capacite_travail_loisirs,etat_emotionnel,capacite_cognitive,capacite_sociale,niveau_fatigue,niveau_appetit,nausee_vomissement,douleurs_dyspnee_insomnies,niveau_constipation,niveau_diarrhees,chute_cheveux,statut_vital
+2,34,Femme,menagere,non,non,Sedentaire,3 ans,Sein,oui,Chimiotherapie,,medicamenteux et activite physique,non,,,5,2,7,6,6,5,4,8,5,6,10,5,Vivant
+3,42,Homme,commercial,non,non,Activite moderee,2 ans,Sein,oui,Chimiotherapie;Chirurgical,mastectomie radicale,oncologie,non,,,4,2,2,4,1,3,2,8,7,8,10,9,Decede
+4,57,Femme,institutrice,non,non,Activite moderee,4 ans,Sein,non,Chimiotherapie;Chirurgical,tumorectomie,oncologie,oui,Avant a maladie,le jogging leger,6,8,7,10,4,8,7,8,5,6,3,4,Vivant
+6,39,Femme,enseignante,non,oui,Activite moderee,2 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie radicale,oncologique,oui,Avant a maladie,la marche et la musculation legere,6,6,7,8,5,4,5,5,5,6,3,6,Vivant
+7,44,Femme,couturiere,non,oui,Activite moderee,1 ans,Sein,non,hormonotherapie;Chirurgical,mastectomie radicale,oncologie et medicamenteuse,non,,,4,4,4,5,4,3,3,7,7,8,9,9,Decede
+8,54,Femme,institutrice,non,oui,Activite moderee,1 ans,Sein,oui,Chirurgical,tumorectomie,oncologie et medicamenteuse,oui,Avant a maladie,le jogging leger,8,10,6,8,10,8,8,6,5,3,4,5,Vivant
+9,56,Femme,commercante,non,oui,Sedentaire,1 ans,Sein,oui,Chimiotherapie,,oncologie,oui,Apres la maladie,la natation et des exercices abdominaux,5,7,7,7,5,5,8,6,5,4,6,5,Vivant
+10,26,Femme,institutrice,non,oui,Activite moderee,1 ans,Sein,non,Radiotherapie;Chimiotherapie;Chirurgical,mastectomie,oncologie uniquement,oui,Avant a maladie,des etirements et la natation,9,7,7,6,7,8,8,4,4,6,7,4,Vivant
+11,48,Homme,ingenieur,non,non,Activite moderee,2 ans,Sein,non,Radiotherapie;Chimiotherapie;Chirurgical,mastectomie radicale,medicamenteux et activite physique,oui,Avant a maladie,des exercices abdominaux et la natation,8,8,9,7,6,8,7,4,6,5,5,7,Vivant
+12,62,Femme,enseignante,non,non,Sedentaire,3 ans,Sein,oui,Chimiotherapie;Chirurgical;hormonotherapie,mastectomie,oncologie,oui,Avant a maladie,le yoga et la marche,4,5,3,2,5,3,6,7,6,4,5,6,Vivant
+13,66,Femme,commercante,non,oui,Sedentaire,4 ans,Sein,non,Chimiotherapie;Chirurgical,tumorectomie,oncologie uniquement,oui,Avant a maladie,le yoga,6,5,6,6,7,6,5,6,8,5,4,7,Vivant
+15,56,Femme,vendeuse,non,non,Sedentaire,1 ans,Sein,non,Chimiotherapie,,oncologique,non,,,4,3,3,3,1,1,3,8,5,10,9,10,Decede
+16,56,Femme,retraitee,non,oui,Sedentaire,1 ans,Sein,non,Radiotherapie;Chimiotherapie;Chirurgical,mastectomie,oncologie,non,,,1,1,2,3,4,5,4,7,7,7,5,7,Decede
+17,49,Femme,menagere,non,non,Sport regulier,1 ans,Sein,non,Chirurgical,mastectomie radicale,oncologie,oui,Avant a maladie,la marche et la musculation legere,8,7,7,8,7,6,9,4,4,2,2,5,Vivant
+19,49,Femme,institutrice,oui,oui,Sedentaire,1 ans,Sein,non,Radiotherapie;Chimiotherapie,,oncologique,oui,Avant a maladie,le velo,4,1,5,7,6,7,4,5,10,5,7,6,Vivant
+22,46,Femme,enseignante,non,non,Activite moderee,1 ans,Sein,oui,Radiotherapie;Chimiotherapie;Chirurgical,mastectomie radicale,oncologie uniquement,non,,,4,3,1,2,1,6,1,8,8,7,4,7,Decede
+27,51,Femme,sans emploi,non,oui,Sport regulier,1 ans,Sein,oui,Radiotherapie;Chimiotherapie,,suivi oncologique standard,non,,,5,2,5,4,4,2,2,8,7,8,8,10,Decede
+28,35,Femme,enseignante,oui,non,Activite moderee,1 ans,Sein,oui,Chirurgical,mastectomie radicale,oncologie et medicamenteuse,oui,Apres la maladie,des exercices de respiration et la marche,7,10,9,9,9,7,7,4,1,5,7,7,Vivant
+29,49,Femme,enseignante,non,oui,Activite moderee,1 ans,Sein,non,Chirurgical,mastectomie radicale,medicamenteux et activite physique,non,,,8,6,4,4,4,6,3,7,7,7,7,5,Vivant
+30,49,Femme,couturiere,non,non,Activite moderee,1 ans,Sein,non,Chimiotherapie,,suivi oncologique standard,oui,Avant a maladie,des exercices de respiration et la marche,5,4,6,6,5,6,5,7,7,8,5,5,Vivant
+31,55,Femme,secretaire,non,oui,Sport regulier,3 ans,Sein,non,Radiotherapie;Chimiotherapie,,oncologie,oui,Avant a maladie,des exercices de kegel et la natation,7,7,9,5,7,6,9,6,4,2,3,6,Vivant
+32,28,Femme,enseignante,non,oui,Sedentaire,1 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie,oncologie et medicamenteuse,oui,Avant a maladie,la natation,4,5,5,4,6,7,5,6,8,9,6,6,Vivant
+34,54,Femme,vendeuse,non,oui,Activite moderee,4 ans,Sein,non,Chimiotherapie,,suivi oncologique standard,oui,Avant a maladie,la marche et la natation,5,4,4,3,5,7,7,5,7,9,6,5,Vivant
+35,52,Femme,retraitee,non,oui,Sedentaire,5 ans,Sein,non,hormonotherapie;Chirurgical,tumorectomie,oncologie,oui,Avant a maladie,la musculation legere et le yoga,7,6,9,5,7,8,6,4,2,2,4,2,Vivant
+37,51,Femme,agricultrice,non,oui,Sport regulier,2 ans,Sein,oui,Chimiotherapie;Chirurgical,tumorectomie,suivi oncologique standard,non,,,6,6,2,5,5,5,5,4,2,8,5,6,Vivant
+40,69,Femme,infirmiere,oui,oui,Sedentaire,2 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie,oncologie uniquement,non,,,6,4,2,4,6,4,5,5,6,5,7,7,Vivant
+45,40,Femme,cultivatrice,non,non,Sedentaire,1 ans,Sein,non,Chimiotherapie,,oncologie,non,,,3,7,6,3,8,4,7,3,4,7,7,8,Vivant
+46,52,Femme,menagere,non,oui,Activite moderee,5 ans,Sein,non,Radiotherapie;Chimiotherapie,,oncologie,oui,Apres la maladie,la marche,7,5,4,5,6,8,7,2,4,4,4,5,Vivant
+47,58,Femme,vendeuse,non,oui,Sport regulier,1 ans,Sein,non,Radiotherapie;Chimiotherapie;Chirurgical,tumorectomie,oncologique,non,,,1,6,4,4,1,5,3,8,9,10,8,9,Decede
+48,48,Femme,menagere,non,oui,Activite moderee,1 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie,oncologique,oui,Apres la maladie,le velo et des etirements,5,7,5,5,5,7,5,7,7,4,8,9,Vivant
+50,51,Femme,menagere,non,oui,Sedentaire,1 ans,Sein,non,Radiotherapie;Chimiotherapie;Chirurgical,tumorectomie,medicamenteux et activite physique,oui,Apres la maladie,la marche,5,6,5,3,3,4,5,3,4,10,6,5,Vivant
+51,47,Femme,infirmiere,non,oui,Activite moderee,1 ans,Sein,non,Radiotherapie;Chimiotherapie;Chirurgical,mastectomie,oncologique,oui,Avant a maladie,la marche,6,7,8,10,6,6,8,6,5,7,4,5,Vivant
+53,65,Femme,infirmiere,non,oui,Sedentaire,1 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie radicale,oncologie uniquement,non,,,5,5,5,4,7,7,5,4,5,6,6,6,Vivant
+54,42,Femme,menagere,non,non,Sedentaire,1 ans,Sein,oui,Chimiotherapie,,suivi oncologique standard,oui,Avant a maladie,le yoga et des exercices de respiration,4,7,7,4,4,4,4,6,7,6,7,4,Vivant
+56,50,Femme,menagere,non,non,Sedentaire,3 ans,Sein,non,hormonotherapie;Chirurgical,tumorectomie,oncologie,non,,,5,8,6,3,4,7,7,8,7,5,6,7,Vivant
+60,51,Femme,agricultrice,non,oui,Activite moderee,1 ans,Sein,non,Radiotherapie;Chimiotherapie;Chirurgical,mastectomie radicale,oncologique,oui,Avant a maladie,la marche,4,7,3,6,3,5,4,7,7,6,8,2,Vivant
+63,42,Femme,menagere,non,oui,Activite moderee,1 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie radicale,oncologie,non,,,3,5,5,3,5,4,8,8,10,8,5,8,Vivant
+64,36,Femme,menagere,non,oui,Activite moderee,2 ans,Sein,non,Chimiotherapie,,oncologique,oui,Avant a maladie,la marche,7,6,7,7,6,7,6,4,3,6,4,5,Vivant
+65,59,Femme,secretaire,oui,non,Sedentaire,2 ans,Sein,non,Chimiotherapie,,medicamenteux et activite physique,non,,,5,1,1,5,2,2,3,9,7,10,8,6,Decede
+66,64,Femme,menagere,non,oui,Sport regulier,4 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie,oncologique,non,,,5,9,3,7,5,4,5,7,6,8,8,6,Vivant
+67,53,Femme,secretaire,non,non,Sedentaire,2 ans,Sein,oui,Chimiotherapie;Chirurgical;hormonotherapie,mastectomie radicale,oncologie,oui,Avant a maladie,des exercices abdominaux et le yoga,8,7,6,6,4,7,6,6,4,2,6,4,Vivant
+68,38,Homme,commercant,oui,non,Sedentaire,1 ans,Sein,non,Chimiotherapie,,oncologique,oui,Apres la maladie,la marche et des exercices de respiration,5,5,6,5,5,8,3,8,8,3,3,8,Vivant
+70,44,Femme,menagere,non,non,Sedentaire,3 ans,Sein,non,Radiotherapie;Chimiotherapie;Chirurgical,mastectomie,oncologie uniquement,oui,Apres la maladie,la marche,8,6,7,8,9,7,5,4,6,3,5,4,Vivant
+71,70,Femme,menagere,non,non,Sedentaire,1 ans,Sein,non,Chimiotherapie;Chirurgical;hormonotherapie,mastectomie radicale,oncologie et medicamenteuse,non,,,3,8,6,5,5,6,7,6,9,1,7,7,Vivant
+76,41,Femme,cultivatrice,non,non,Sedentaire,1 ans,Sein,oui,Chimiotherapie;Chirurgical,mastectomie radicale,oncologique,non,,,5,5,4,6,6,5,7,7,6,8,6,6,Vivant
+77,75,Femme,commercante,non,oui,Activite moderee,1 ans,Sein,oui,Radiotherapie;Chimiotherapie;Chirurgical,tumorectomie,oncologie et medicamenteuse,non,,,7,6,4,2,5,1,6,7,8,7,10,5,Vivant
+79,24,Femme,menagere,non,oui,Sedentaire,1 ans,Sein,non,Chimiotherapie;Chirurgical,tumorectomie,oncologie,oui,Avant a maladie,des exercices de respiration,4,7,5,5,5,6,3,7,7,9,6,5,Vivant
+80,39,Femme,institutrice,non,non,Sedentaire,1 ans,Sein,non,Radiotherapie;Chimiotherapie;Chirurgical,mastectomie,oncologique,non,,,4,4,4,3,2,3,5,7,8,8,10,9,Decede
+81,62,Femme,coiffeuse,oui,oui,Sedentaire,1 ans,Sein,oui,hormonotherapie;Chirurgical,mastectomie radicale,oncologie uniquement,non,,,2,3,6,2,2,5,3,6,6,7,8,8,Decede
+83,37,Femme,menagere,non,oui,Sedentaire,1 ans,Sein,non,Chimiotherapie;Chirurgical;hormonotherapie,tumorectomie,oncologie,oui,Avant a maladie,le jogging leger,8,6,5,6,7,5,5,6,5,8,5,9,Vivant
+86,35,Femme,menagere,non,non,Sedentaire,2 ans,Sein,non,Chimiotherapie;Chirurgical,tumorectomie,oncologie et medicamenteuse,non,,,5,8,4,3,4,6,5,6,7,5,6,6,Vivant
+87,52,Femme,menagere,non,oui,Sport regulier,1 ans,Sein,non,hormonotherapie;Chirurgical,tumorectomie,medicamenteux et activite physique,oui,Avant a maladie,le jogging leger,6,4,6,7,4,6,5,4,6,8,6,4,Vivant
+88,34,Femme,vendeuse,non,non,Sport regulier,2 ans,Sein,oui,Radiotherapie;Chimiotherapie,,oncologie et medicamenteuse,oui,Apres la maladie,la musculation legere,8,8,6,8,10,6,6,4,6,5,4,4,Vivant
+89,51,Femme,infirmiere,non,non,Sport regulier,2 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie,oncologie et medicamenteuse,oui,Avant a maladie,des exercices de kegel,7,6,8,4,7,8,4,4,6,8,7,6,Vivant
+91,48,Femme,cultivatrice,non,oui,Activite moderee,4 ans,Sein,non,Radiotherapie;Chimiotherapie,,oncologique,oui,Avant a maladie,la marche,3,5,7,6,5,5,5,3,8,9,5,8,Vivant
+92,42,Femme,enseignante,non,oui,Sedentaire,1 ans,Sein,non,Chimiotherapie;Chirurgical,tumorectomie,oncologique,non,,,5,6,6,8,5,5,7,6,3,7,7,6,Vivant
+94,45,Femme,coiffeuse,non,oui,Activite moderee,1 ans,Sein,non,Chimiotherapie;Chirurgical,tumorectomie,suivi oncologique standard,oui,Avant a maladie,la marche et le velo,7,8,8,7,7,5,6,3,7,5,5,3,Vivant
+97,55,Femme,retraitee,non,non,Sedentaire,3 ans,Sein,oui,Chimiotherapie;Chirurgical,mastectomie radicale,oncologie,non,,,2,4,7,6,6,4,2,6,4,4,9,4,Vivant
+98,53,Femme,menagere,non,oui,Sedentaire,2 ans,Sein,oui,Chirurgical,tumorectomie,oncologie,non,,,8,5,5,3,8,4,6,9,8,7,6,4,Vivant
+99,48,Femme,institutrice,non,non,Sedentaire,1 ans,Sein,oui,Radiotherapie;Chimiotherapie,,oncologique,non,,,3,2,5,4,3,5,6,6,7,7,9,7,Decede
+102,55,Femme,menagere,non,oui,Sport regulier,6 ans,Sein,non,Chimiotherapie,,oncologie,oui,Apres la maladie,la marche,6,8,8,6,3,7,5,6,5,2,3,2,Vivant
+103,55,Femme,infirmiere,non,non,Activite moderee,1 ans,Sein,oui,Chimiotherapie;Chirurgical;hormonotherapie,mastectomie,oncologique,non,,,5,1,3,4,3,2,3,9,8,9,9,5,Decede
+104,63,Femme,vendeuse,non,oui,Activite moderee,1 ans,Sein,oui,Chimiotherapie;Chirurgical,mastectomie radicale,oncologique,oui,Avant a maladie,le jogging leger et des exercices de respiration,7,6,6,9,7,4,10,4,7,1,9,3,Vivant
+105,44,Femme,sans emploi,oui,non,Activite moderee,1 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie,oncologie,oui,Apres la maladie,la marche,5,7,6,9,8,5,6,3,6,7,2,1,Vivant
+106,60,Femme,agricultrice,non,oui,Sport regulier,1 ans,Sein,non,Chimiotherapie,,oncologie et medicamenteuse,oui,Avant a maladie,le velo et des etirements,4,4,3,5,6,7,5,6,6,5,5,6,Vivant
+107,55,Femme,enseignante,non,non,Sedentaire,4 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie,oncologie et medicamenteuse,non,,,5,4,6,4,1,4,5,2,5,4,6,7,Vivant
+108,35,Femme,infirmiere,non,oui,Sport regulier,1 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie,oncologique,oui,Avant a maladie,des exercices abdominaux,6,7,8,5,6,7,6,5,4,6,7,3,Vivant
+110,42,Femme,cultivatrice,non,non,Sedentaire,1 ans,Sein,non,Radiotherapie;Chimiotherapie,,oncologique,oui,Avant a maladie,la marche,8,3,8,8,9,6,4,6,6,4,4,7,Vivant
+113,52,Femme,retraitee,non,non,Activite moderee,1 ans,Sein,oui,Chimiotherapie;Chirurgical,tumorectomie,oncologie,oui,Avant a maladie,des exercices de respiration,5,9,7,5,6,7,6,2,5,5,5,5,Vivant
+114,45,Femme,menagere,non,non,Sedentaire,2 ans,Sein,non,Chimiotherapie;Chirurgical,tumorectomie,oncologie,oui,Avant a maladie,la natation et la marche,8,7,7,7,7,6,7,1,7,5,5,3,Vivant
+115,52,Femme,vendeuse,non,non,Sedentaire,1 ans,Sein,non,hormonotherapie;Chirurgical,mastectomie radicale,oncologie,non,,,7,5,6,5,4,5,6,5,9,8,5,6,Vivant
+116,58,Femme,commercante,non,oui,Activite moderee,2 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie radicale,oncologie,oui,Avant a maladie,la marche et le jogging leger,8,7,5,8,9,8,6,2,1,2,4,4,Vivant
+117,55,Femme,couturiere,non,oui,Activite moderee,2 ans,Sein,non,Radiotherapie;Chimiotherapie;Chirurgical,mastectomie,oncologie,oui,Avant a maladie,le yoga et des exercices de respiration,8,9,7,6,7,7,6,4,7,3,7,4,Vivant
+118,25,Femme,institutrice,non,non,Activite moderee,1 ans,Sein,non,Chimiotherapie,,oncologie,oui,Avant a maladie,des exercices abdominaux et la natation,5,5,5,8,5,7,6,4,5,4,2,4,Vivant
+119,68,Femme,menagere,non,oui,Sedentaire,1 ans,Sein,non,Radiotherapie;Chimiotherapie;Chirurgical,tumorectomie,suivi oncologique standard,non,,,3,6,4,8,5,4,3,2,6,8,6,6,Vivant
+120,46,Femme,menagere,non,non,Sedentaire,3 ans,Sein,non,hormonotherapie;Chirurgical,tumorectomie,oncologique,oui,Avant a maladie,des etirements,7,8,7,10,6,7,6,3,5,5,5,5,Vivant
+121,47,Femme,commercante,non,oui,Sedentaire,1 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie,suivi oncologique standard,non,,,3,2,2,3,4,1,2,10,10,9,9,7,Decede
+122,44,Femme,agricultrice,non,oui,Sport regulier,1 ans,Sein,non,Chirurgical,mastectomie radicale,oncologique,non,,,7,6,6,5,6,4,6,5,7,6,6,9,Vivant
+123,55,Femme,couturiere,non,non,Activite moderee,4 ans,Sein,non,Chimiotherapie,,oncologie et medicamenteuse,oui,Apres la maladie,des exercices de kegel et le yoga,6,8,4,7,7,6,6,1,5,5,5,3,Vivant
+125,58,Femme,commercante,non,non,Sedentaire,3 ans,Sein,oui,Chimiotherapie;Chirurgical,mastectomie,oncologie,oui,Avant a maladie,la marche,3,6,4,6,6,5,7,7,5,3,6,9,Vivant
+126,59,Femme,menagere,non,non,Sedentaire,2 ans,Sein,non,Chimiotherapie,,oncologie,oui,Apres la maladie,le yoga,8,8,6,5,6,7,7,4,3,1,4,2,Vivant
+127,49,Femme,cultivatrice,non,oui,Activite moderee,1 ans,Sein,non,Chimiotherapie,,oncologie uniquement,oui,Avant a maladie,la natation et la musculation legere,5,6,6,5,5,5,6,4,6,3,4,8,Vivant
+128,47,Femme,enseignante,non,non,Activite moderee,1 ans,Sein,non,Radiotherapie;Chimiotherapie,,medicamenteux et activite physique,non,,,5,6,6,4,3,5,3,4,6,5,6,7,Vivant
+129,50,Femme,menagere,non,oui,Activite moderee,2 ans,Sein,oui,Chimiotherapie;Chirurgical,mastectomie,oncologie,oui,Avant a maladie,le velo,8,7,6,9,7,9,3,6,6,6,2,7,Vivant
+130,55,Femme,cultivatrice,non,oui,Sedentaire,3 ans,Sein,non,Chimiotherapie;Chirurgical;hormonotherapie,mastectomie radicale,oncologique,non,,,6,4,4,5,5,8,4,5,7,3,3,5,Vivant
+131,54,Femme,vendeuse,non,oui,Sedentaire,2 ans,Sein,non,hormonotherapie;Chirurgical,mastectomie,oncologique,oui,Avant a maladie,des etirements et la marche,6,7,10,3,7,6,9,7,4,5,6,5,Vivant
+132,35,Femme,secretaire,non,oui,Activite moderee,3 ans,Sein,non,Radiotherapie;Chimiotherapie,,oncologie,non,,,7,5,5,4,5,8,5,4,5,6,7,6,Vivant
+134,68,Femme,commercante,non,non,Sedentaire,1 ans,Sein,non,hormonotherapie;Chirurgical,mastectomie radicale,oncologie,non,,,5,6,5,2,6,3,7,6,5,4,6,6,Vivant
+135,38,Femme,vendeuse,non,non,Activite moderee,2 ans,Sein,oui,Radiotherapie;Chimiotherapie;Chirurgical,mastectomie radicale,oncologique,oui,Apres la maladie,des exercices de kegel,8,7,7,7,9,8,7,4,6,4,5,6,Vivant
+136,66,Homme,retraite,non,non,Sport regulier,3 ans,Sein,non,Chimiotherapie,,oncologie et medicamenteuse,oui,Apres la maladie,des etirements,7,5,6,4,5,4,3,6,6,7,6,10,Vivant
+137,54,Femme,retraitee,non,non,Activite moderee,1 ans,Sein,oui,hormonotherapie;Chirurgical,mastectomie radicale,suivi oncologique standard,non,,,2,5,3,4,4,3,2,9,8,6,7,5,Decede
+139,50,Femme,sans emploi,non,oui,Sedentaire,1 ans,Sein,non,Radiotherapie;Chimiotherapie;Chirurgical,mastectomie radicale,suivi oncologique standard,oui,Avant a maladie,la musculation legere,9,8,7,9,8,6,9,2,7,2,6,4,Vivant
+140,52,Femme,cultivatrice,non,non,Activite moderee,1 ans,Sein,oui,Radiotherapie;Chimiotherapie;Chirurgical,mastectomie radicale,medicamenteux et activite physique,oui,Apres la maladie,la marche,4,5,5,6,5,7,5,7,9,6,4,5,Vivant
+141,57,Femme,infirmiere,non,non,Sport regulier,3 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie,oncologique,oui,Apres la maladie,la marche et le yoga,5,4,4,4,6,4,8,6,8,5,6,4,Vivant
+142,68,Femme,menagere,non,non,Activite moderee,1 ans,Sein,non,Chimiotherapie;Chirurgical,tumorectomie,oncologie et medicamenteuse,oui,Avant a maladie,des exercices abdominaux et le yoga,6,5,7,7,6,5,4,2,7,4,5,6,Vivant
+143,51,Femme,agricultrice,non,oui,Sedentaire,1 ans,Sein,oui,Chimiotherapie,,oncologique,oui,Avant a maladie,la marche,9,5,5,5,4,6,6,3,3,6,8,2,Vivant
+144,48,Femme,sans emploi,non,non,Sport regulier,2 ans,Sein,non,Radiotherapie;Chimiotherapie,,oncologie,non,,,2,2,5,4,3,4,3,7,6,6,4,6,Vivant
+145,47,Femme,commercante,non,oui,Activite moderee,1 ans,Sein,non,hormonotherapie;Chirurgical,mastectomie radicale,oncologie,non,,,5,4,7,5,6,6,6,9,6,7,7,7,Vivant
+146,39,Femme,retraitee,non,oui,Sedentaire,4 ans,Sein,non,Chimiotherapie,,oncologie,oui,Avant a maladie,la marche,4,5,6,6,3,3,5,7,7,6,8,3,Vivant
+147,29,Femme,menagere,non,oui,Activite moderee,3 ans,Sein,non,Chimiotherapie;Chirurgical,tumorectomie,suivi oncologique standard,oui,Apres la maladie,la musculation legere et des exercices abdominaux,5,7,9,9,7,5,7,4,1,3,3,5,Vivant
+148,55,Femme,secretaire,non,oui,Sedentaire,1 ans,Sein,oui,Chirurgical,mastectomie,medicamenteux et activite physique,non,,,2,2,3,1,1,2,4,8,6,10,7,8,Decede
+149,51,Femme,retraitee,non,oui,Activite moderee,1 ans,Sein,oui,Chimiotherapie,,oncologie,non,,,3,2,2,5,1,4,1,8,9,7,10,9,Decede
+153,37,Femme,retraitee,non,non,Sedentaire,3 ans,Sein,non,hormonotherapie;Chirurgical,mastectomie,oncologie,non,,,4,6,3,3,6,4,3,6,9,8,7,9,Vivant
+156,70,Homme,employe de bureau,non,oui,Sedentaire,1 ans,Sein,oui,Chimiotherapie;Chirurgical,tumorectomie,oncologie,oui,Avant a maladie,la marche,4,7,7,8,5,7,8,2,3,5,5,6,Vivant
+157,54,Femme,enseignante,non,oui,Sedentaire,6 ans,Sein,oui,Radiotherapie;Chimiotherapie,,oncologie et medicamenteuse,oui,Avant a maladie,la marche et le jogging leger,8,5,7,5,6,10,5,5,3,3,9,5,Vivant
+158,27,Femme,enseignante,non,oui,Sedentaire,2 ans,Sein,oui,Chimiotherapie,,suivi oncologique standard,non,,,8,7,4,4,3,5,2,10,6,8,6,7,Vivant
+159,59,Homme,macon,non,oui,Sport regulier,1 ans,Sein,non,Chirurgical,mastectomie,oncologie,oui,Avant a maladie,le velo,5,5,4,7,4,5,6,7,8,6,7,7,Vivant
+161,37,Femme,retraitee,non,non,Sedentaire,1 ans,Sein,non,Radiotherapie;Chimiotherapie;Chirurgical,tumorectomie,oncologie uniquement,non,,,8,4,6,4,3,5,5,7,3,5,10,5,Vivant
+162,61,Femme,menagere,non,oui,Sedentaire,1 ans,Sein,oui,Chimiotherapie,,oncologie,oui,Avant a maladie,le velo et la natation,4,7,5,4,6,6,6,8,3,7,4,6,Vivant
+163,32,Femme,menagere,non,non,Sport regulier,3 ans,Sein,oui,Chimiotherapie,,oncologique,oui,Apres la maladie,la natation,8,5,7,6,8,4,8,3,6,2,4,5,Vivant
+164,53,Femme,enseignante,non,oui,Sedentaire,1 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie radicale,oncologique,oui,Avant a maladie,la musculation legere et le jogging leger,6,5,10,7,7,6,6,4,2,3,4,6,Vivant
+166,41,Femme,sans emploi,non,non,Sedentaire,1 ans,Sein,non,Chirurgical,mastectomie,oncologie uniquement,non,,,6,7,5,6,5,3,3,9,6,3,7,4,Vivant
+167,24,Femme,commercante,non,non,Sport regulier,1 ans,Sein,non,Chirurgical,mastectomie radicale,oncologie,oui,Apres la maladie,des exercices abdominaux et le velo,5,5,2,7,5,6,4,6,6,6,6,9,Vivant
+168,53,Homme,militaire,non,non,Activite moderee,4 ans,Sein,non,Radiotherapie;Chimiotherapie,,oncologie,non,,,5,5,4,5,3,3,4,10,5,3,8,1,Vivant
+169,46,Femme,secretaire,non,non,Sport regulier,4 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie,oncologie et medicamenteuse,oui,Avant a maladie,des exercices de kegel et le jogging leger,5,8,7,5,7,7,4,10,6,6,8,3,Vivant
+170,46,Femme,vendeuse,oui,non,Sedentaire,3 ans,Sein,oui,Radiotherapie;Chimiotherapie;Chirurgical,mastectomie,oncologie,non,,,4,6,5,6,4,8,6,7,8,7,7,6,Vivant
+171,44,Femme,infirmiere,non,oui,Activite moderee,1 ans,Sein,oui,Chimiotherapie,,oncologique,oui,Avant a maladie,le jogging leger et la marche,6,4,10,8,6,7,7,4,4,6,5,1,Vivant
+173,38,Femme,menagere,non,non,Sedentaire,1 ans,Sein,non,Chirurgical,mastectomie,medicamenteux et activite physique,oui,Avant a maladie,des exercices abdominaux et la marche,7,9,8,8,8,8,7,2,5,5,6,3,Vivant
+177,50,Femme,secretaire,non,non,Sedentaire,1 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie,suivi oncologique standard,non,,,5,7,3,5,1,6,5,4,6,8,8,4,Vivant
+178,38,Femme,retraitee,non,non,Activite moderee,3 ans,Sein,non,hormonotherapie;Chirurgical,tumorectomie,oncologie,oui,Apres la maladie,la marche et des etirements,7,6,9,7,5,9,6,6,4,2,4,4,Vivant
+179,53,Femme,couturiere,non,oui,Activite moderee,3 ans,Sein,oui,Chimiotherapie;Chirurgical,tumorectomie,suivi oncologique standard,non,,,5,5,4,5,4,4,5,4,10,4,7,8,Vivant
+181,40,Femme,retraitee,non,non,Activite moderee,1 ans,Sein,non,Chimiotherapie,,oncologique,non,,,4,8,4,5,5,3,5,6,8,7,7,8,Vivant
+183,45,Femme,couturiere,non,oui,Activite moderee,1 ans,Sein,non,Chirurgical,tumorectomie,oncologie uniquement,non,,,1,2,1,5,1,2,2,8,10,8,6,10,Decede
+185,51,Femme,enseignante,non,oui,Sedentaire,1 ans,Sein,oui,Chimiotherapie,,medicamenteux et activite physique,non,,,5,2,2,4,4,4,1,6,6,10,5,10,Decede
+186,46,Femme,commercante,non,non,Activite moderee,1 ans,Sein,oui,Chimiotherapie;Chirurgical,tumorectomie,oncologie,non,,,8,5,7,2,7,3,6,5,6,5,7,8,Vivant
+187,63,Femme,menagere,non,oui,Sedentaire,1 ans,Sein,oui,Chimiotherapie;Chirurgical,mastectomie radicale,oncologie et medicamenteuse,non,,,5,8,4,3,4,3,6,5,5,10,4,4,Vivant
+188,34,Femme,cultivatrice,oui,oui,Sport regulier,3 ans,Sein,non,Radiotherapie;Chimiotherapie,,oncologie,oui,Avant a maladie,la natation,5,5,5,7,6,5,7,4,2,5,6,1,Vivant
+189,44,Homme,commercial,non,oui,Sedentaire,3 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie radicale,oncologique,oui,Avant a maladie,le jogging leger et des exercices de respiration,9,5,9,7,9,6,5,7,6,2,4,4,Vivant
+190,40,Femme,menagere,oui,non,Sedentaire,2 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie,oncologie,oui,Apres la maladie,des exercices abdominaux et des exercices de kegel,6,7,4,8,7,7,8,5,6,8,8,5,Vivant
+191,63,Femme,secretaire,non,non,Activite moderee,1 ans,Sein,non,Chimiotherapie,,oncologie,oui,Avant a maladie,des etirements et le jogging leger,8,5,7,8,9,7,8,6,7,6,8,5,Vivant
+192,30,Femme,commercante,non,oui,Activite moderee,1 ans,Sein,oui,Chimiotherapie;Chirurgical;hormonotherapie,tumorectomie,oncologie,oui,Avant a maladie,le yoga,7,7,8,6,7,8,9,5,1,2,5,7,Vivant
+193,38,Femme,menagere,non,non,Activite moderee,3 ans,Sein,non,hormonotherapie;Chirurgical,mastectomie radicale,oncologie et medicamenteuse,non,,,7,4,5,6,3,2,2,9,4,10,8,5,Vivant
+194,62,Femme,couturiere,non,oui,Sedentaire,2 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie radicale,oncologique,non,,,3,6,3,2,2,3,2,9,8,7,9,8,Decede
+197,64,Femme,menagere,non,non,Sedentaire,2 ans,Sein,non,Chimiotherapie,,oncologique,oui,Avant a maladie,la marche et le jogging leger,7,4,7,6,6,8,6,4,5,6,7,4,Vivant
+199,75,Femme,menagere,non,oui,Sedentaire,5 ans,Sein,non,Chimiotherapie;Chirurgical;hormonotherapie,mastectomie,oncologie,non,,,3,4,2,5,3,4,3,5,9,9,6,9,Decede
+200,61,Femme,enseignante,non,oui,Sedentaire,1 ans,Sein,oui,Radiotherapie;Chimiotherapie,,medicamenteux et activite physique,oui,Avant a maladie,le velo,8,6,8,5,5,6,8,5,6,5,6,5,Vivant
+201,57,Femme,commercante,non,oui,Sedentaire,1 ans,Sein,non,Chimiotherapie;Chirurgical;hormonotherapie,tumorectomie,oncologie,non,,,5,4,5,6,5,5,6,3,8,2,9,6,Vivant
+202,59,Femme,fonctionnaire,oui,non,Activite moderee,3 ans,Sein,non,Chimiotherapie,,oncologie et medicamenteuse,oui,Avant a maladie,le yoga,6,9,8,7,6,8,9,3,7,7,7,5,Vivant
+203,44,Femme,cultivatrice,non,oui,Sedentaire,1 ans,Sein,non,Chimiotherapie,,oncologie et medicamenteuse,oui,Avant a maladie,des exercices de respiration et la marche,4,5,6,6,3,4,5,3,4,7,8,6,Vivant
+204,51,Femme,cultivatrice,non,oui,Sedentaire,3 ans,Sein,non,hormonotherapie;Chirurgical,tumorectomie,oncologie uniquement,oui,Apres la maladie,la natation,3,6,4,8,5,4,4,4,6,9,6,6,Vivant
+205,62,Femme,secretaire,non,non,Activite moderee,3 ans,Sein,oui,Chimiotherapie;Chirurgical,mastectomie radicale,oncologie et medicamenteuse,non,,,6,3,6,6,5,5,7,6,7,7,1,6,Vivant
+206,55,Femme,coiffeuse,non,non,Activite moderee,1 ans,Sein,non,Chimiotherapie,,oncologique,oui,Avant a maladie,des etirements et le velo,5,7,7,7,7,7,6,6,5,5,4,6,Vivant
+209,54,Femme,menagere,non,oui,Activite moderee,1 ans,Sein,non,Chimiotherapie;Chirurgical,tumorectomie,oncologique,non,,,3,3,2,4,1,4,3,9,6,7,9,10,Decede
+210,62,Femme,menagere,non,oui,Activite moderee,3 ans,Sein,non,Chimiotherapie;Chirurgical;hormonotherapie,mastectomie radicale,oncologie,oui,Avant a maladie,la marche,5,4,4,7,7,1,3,6,4,6,5,6,Vivant
+211,55,Femme,menagere,non,oui,Sedentaire,1 ans,Sein,non,Chirurgical,mastectomie,oncologique,oui,Avant a maladie,des etirements et le yoga,6,6,9,7,6,8,7,6,5,3,3,6,Vivant
+212,59,Femme,couturiere,oui,oui,Sedentaire,5 ans,Sein,oui,Chimiotherapie;Chirurgical,tumorectomie,suivi oncologique standard,oui,Avant a maladie,le yoga et le velo,5,7,7,6,3,6,6,9,8,6,3,9,Vivant
+213,50,Femme,secretaire,non,non,Sedentaire,1 ans,Sein,oui,Chimiotherapie;Chirurgical;hormonotherapie,mastectomie,medicamenteux et activite physique,oui,Avant a maladie,la marche et des exercices de respiration,4,5,3,6,7,8,2,4,6,5,6,6,Vivant
+214,55,Femme,menagere,non,oui,Sedentaire,3 ans,Sein,non,Chirurgical,tumorectomie,oncologique,non,,,3,2,2,3,4,3,6,7,7,7,10,6,Decede
+215,39,Femme,menagere,non,oui,Sedentaire,1 ans,Sein,oui,Radiotherapie;Chimiotherapie;Chirurgical,tumorectomie,oncologique,non,,,7,5,3,9,4,4,6,5,7,3,6,6,Vivant
+217,52,Femme,commercante,non,oui,Activite moderee,3 ans,Sein,non,hormonotherapie;Chirurgical,mastectomie,oncologie,non,,,7,5,5,4,3,6,4,3,5,7,7,5,Vivant
+218,45,Femme,agricultrice,non,oui,Activite moderee,3 ans,Sein,non,Chimiotherapie;Chirurgical,tumorectomie,oncologie,oui,Avant a maladie,le jogging leger et des etirements,9,6,6,6,9,8,8,3,1,4,4,1,Vivant
+219,58,Femme,fonctionnaire,non,non,Activite moderee,4 ans,Sein,non,Chimiotherapie;Chirurgical;hormonotherapie,mastectomie,oncologie,oui,Avant a maladie,des exercices de kegel,7,4,5,4,8,8,5,9,3,8,6,6,Vivant
+222,54,Femme,menagere,non,oui,Sedentaire,1 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie radicale,oncologique,non,,,6,6,4,4,6,1,4,9,6,3,7,6,Vivant
+224,68,Femme,menagere,non,oui,Activite moderee,3 ans,Sein,non,Chimiotherapie,,suivi oncologique standard,oui,Apres la maladie,la musculation legere,6,7,6,9,8,6,9,5,6,8,6,4,Vivant
+227,36,Femme,menagere,oui,oui,Sedentaire,1 ans,Sein,non,hormonotherapie;Chirurgical,tumorectomie,oncologie,oui,Avant a maladie,le velo et le yoga,5,4,5,3,6,4,5,6,7,6,6,7,Vivant
+229,49,Femme,menagere,non,oui,Sedentaire,2 ans,Sein,oui,Chimiotherapie;Chirurgical;hormonotherapie,mastectomie radicale,oncologique,non,,,3,3,3,3,6,4,2,6,9,8,10,10,Decede
+230,37,Femme,agricultrice,non,non,Sedentaire,5 ans,Sein,oui,Chimiotherapie;Chirurgical,mastectomie,suivi oncologique standard,non,,,4,1,3,2,4,6,2,8,8,5,6,10,Decede
+231,40,Femme,coiffeuse,oui,oui,Sedentaire,1 ans,Sein,non,Chimiotherapie,,oncologie,oui,Avant a maladie,le velo,7,4,7,7,7,4,7,6,6,5,4,8,Vivant
+232,31,Femme,menagere,non,oui,Sedentaire,3 ans,Sein,oui,Chimiotherapie;Chirurgical,tumorectomie,medicamenteux et activite physique,oui,Avant a maladie,des exercices de respiration et la marche,3,3,3,6,7,6,4,2,4,4,6,6,Vivant
+234,60,Femme,commercante,non,oui,Sport regulier,1 ans,Sein,oui,Chimiotherapie;Chirurgical,mastectomie radicale,oncologie et medicamenteuse,oui,Avant a maladie,la marche,6,7,6,6,7,7,7,5,6,6,3,5,Vivant
+235,61,Femme,retraitee,non,non,Sedentaire,1 ans,Sein,non,Radiotherapie;Chimiotherapie;Chirurgical,tumorectomie,oncologie,non,,,6,5,4,9,7,6,6,9,8,6,7,7,Vivant
+237,70,Femme,agricultrice,non,oui,Activite moderee,1 ans,Sein,non,Chimiotherapie;Chirurgical;hormonotherapie,mastectomie radicale,oncologie,oui,Avant a maladie,la marche et le velo,6,10,6,5,7,10,8,4,3,4,3,4,Vivant
+238,49,Femme,secretaire,non,non,Activite moderee,1 ans,Sein,oui,Radiotherapie;Chimiotherapie;Chirurgical,tumorectomie,oncologique,non,,,5,1,1,3,4,2,6,7,9,8,9,9,Decede
+239,57,Femme,menagere,non,oui,Activite moderee,1 ans,Sein,non,Chimiotherapie;Chirurgical,tumorectomie,oncologique,oui,Avant a maladie,des exercices abdominaux,6,5,6,7,5,6,6,5,5,8,7,4,Vivant
+240,47,Femme,institutrice,non,oui,Activite moderee,1 ans,Sein,non,Chimiotherapie,,suivi oncologique standard,oui,Avant a maladie,des exercices abdominaux,2,7,4,1,6,4,2,7,5,4,5,7,Vivant
+241,65,Femme,sans emploi,non,oui,Sedentaire,1 ans,Sein,non,Chimiotherapie;Chirurgical;hormonotherapie,tumorectomie,oncologique,oui,Avant a maladie,la musculation legere et la marche,7,6,4,6,6,6,6,9,6,5,9,6,Vivant
+243,55,Femme,secretaire,non,oui,Sedentaire,1 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie,oncologique,oui,Avant a maladie,la marche et des exercices de respiration,6,5,6,5,4,5,6,8,4,9,7,8,Vivant
+245,45,Femme,menagere,non,non,Sport regulier,1 ans,Sein,oui,Chirurgical,mastectomie,oncologique,non,,,4,1,5,4,1,6,1,6,7,6,9,7,Decede
+246,58,Femme,enseignante,non,non,Activite moderee,1 ans,Sein,oui,Chimiotherapie;Chirurgical,mastectomie radicale,oncologie,non,,,5,3,2,4,4,3,2,8,9,8,7,6,Decede
+248,40,Homme,retraite,non,oui,Activite moderee,1 ans,Sein,non,Chimiotherapie,,oncologique,oui,Avant a maladie,des exercices de kegel et le yoga,7,6,7,7,10,5,7,7,6,4,6,5,Vivant
+250,61,Femme,agricultrice,non,oui,Sedentaire,1 ans,Sein,oui,Chimiotherapie,,suivi oncologique standard,oui,Avant a maladie,le velo et la marche,8,7,6,5,6,9,6,5,4,5,5,6,Vivant
+252,58,Homme,electricien,oui,oui,Activite moderee,1 ans,Sein,oui,Chirurgical,tumorectomie,oncologique,oui,Avant a maladie,le yoga et des etirements,8,8,6,9,6,6,6,3,4,4,3,5,Vivant
+254,36,Femme,retraitee,non,non,Sedentaire,1 ans,Sein,non,Chimiotherapie,,oncologie,non,,,5,6,3,5,6,6,7,9,7,6,6,6,Vivant
+255,67,Femme,menagere,non,non,Sedentaire,1 ans,Sein,non,hormonotherapie;Chirurgical,mastectomie,medicamenteux et activite physique,oui,Avant a maladie,la natation,7,9,8,7,6,7,8,3,6,4,5,9,Vivant
+256,44,Femme,vendeuse,oui,non,Activite moderee,2 ans,Sein,oui,Radiotherapie;Chimiotherapie;Chirurgical,tumorectomie,oncologique,oui,Avant a maladie,le yoga,6,4,4,4,6,4,7,8,6,6,6,2,Vivant
+257,50,Femme,cultivatrice,non,non,Activite moderee,1 ans,Sein,non,hormonotherapie;Chirurgical,tumorectomie,oncologique,oui,Avant a maladie,la marche et des etirements,3,6,5,5,4,7,7,9,5,8,7,5,Vivant
+259,65,Femme,menagere,non,non,Sport regulier,1 ans,Sein,oui,Chimiotherapie,,oncologique,oui,Avant a maladie,la marche et le velo,9,8,6,7,8,7,8,3,2,4,7,5,Vivant
+260,59,Femme,fonctionnaire,non,oui,Sedentaire,1 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie,oncologie,oui,Avant a maladie,des etirements,7,7,9,8,6,9,8,4,6,2,2,2,Vivant
+261,41,Femme,enseignante,non,oui,Sedentaire,1 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie,oncologie,non,,,6,5,5,5,5,7,9,7,5,8,9,6,Vivant
+262,55,Femme,enseignante,non,oui,Sedentaire,1 ans,Sein,non,Radiotherapie;Chimiotherapie;Chirurgical,mastectomie radicale,oncologique,oui,Avant a maladie,la musculation legere et la marche,4,6,7,4,8,2,6,10,7,8,5,4,Vivant
+263,47,Femme,sans emploi,oui,non,Sedentaire,1 ans,Sein,oui,Radiotherapie;Chimiotherapie;Chirurgical,tumorectomie,oncologie,non,,,5,2,5,4,2,3,6,7,10,9,8,8,Decede
+264,61,Femme,menagere,non,non,Activite moderee,4 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie radicale,oncologie,oui,Avant a maladie,le velo et des exercices abdominaux,8,6,7,8,8,8,8,7,4,5,5,4,Vivant
+265,71,Femme,coiffeuse,non,oui,Sedentaire,1 ans,Sein,non,Chirurgical,tumorectomie,oncologie,oui,Avant a maladie,le velo,5,5,8,7,7,7,5,8,5,5,3,8,Vivant
+267,52,Femme,enseignante,non,oui,Sport regulier,3 ans,Sein,oui,Chimiotherapie;Chirurgical,mastectomie,oncologie,non,,,4,5,5,5,3,4,4,9,7,10,10,7,Decede
+268,57,Femme,retraitee,non,oui,Activite moderee,1 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie radicale,suivi oncologique standard,oui,Avant a maladie,la marche et le jogging leger,4,4,6,8,5,5,5,6,8,6,10,6,Vivant
+270,42,Femme,commercante,non,non,Sedentaire,4 ans,Sein,non,Chimiotherapie,,oncologie et medicamenteuse,oui,Apres la maladie,des exercices abdominaux et des exercices de kegel,6,5,4,4,6,4,5,8,9,7,8,5,Vivant
+271,47,Femme,menagere,non,oui,Activite moderee,1 ans,Sein,oui,Chimiotherapie;Chirurgical,mastectomie,oncologie et medicamenteuse,oui,Apres la maladie,la marche,6,8,4,7,6,7,9,4,5,6,5,5,Vivant
+272,45,Femme,commercante,oui,oui,Sedentaire,1 ans,Sein,non,Radiotherapie;Chimiotherapie,,oncologie,non,,,8,5,5,6,5,7,5,5,7,4,7,7,Vivant
+273,39,Femme,enseignante,non,oui,Sedentaire,1 ans,Sein,non,hormonotherapie;Chirurgical,mastectomie,oncologie uniquement,non,,,3,3,1,5,4,4,2,6,7,8,8,7,Decede
+274,50,Femme,cultivatrice,non,non,Activite moderee,1 ans,Sein,oui,Radiotherapie;Chimiotherapie,,medicamenteux et activite physique,oui,Avant a maladie,des exercices abdominaux et le velo,9,8,8,6,6,7,9,6,5,8,3,6,Vivant
+278,62,Femme,commercante,non,oui,Sport regulier,1 ans,Sein,oui,Chimiotherapie;Chirurgical,mastectomie,medicamenteux et activite physique,oui,Apres la maladie,le velo et la marche,7,7,8,3,7,8,7,4,5,6,6,2,Vivant
+281,56,Femme,menagere,non,oui,Activite moderee,1 ans,Sein,oui,Chimiotherapie;Chirurgical,mastectomie,suivi oncologique standard,oui,Apres la maladie,la marche et des exercices de respiration,8,7,8,6,8,6,8,5,5,4,4,3,Vivant
+286,35,Femme,enseignante,non,non,Activite moderee,4 ans,Sein,non,Radiotherapie;Chimiotherapie,,oncologie et medicamenteuse,oui,Apres la maladie,la marche,8,8,8,8,8,7,5,3,4,4,3,3,Vivant
+287,30,Femme,commercante,non,oui,Sedentaire,3 ans,Sein,non,hormonotherapie;Chirurgical,tumorectomie,oncologie,oui,Avant a maladie,des exercices abdominaux,7,8,6,7,8,8,7,5,5,5,4,3,Vivant
+288,62,Homme,agriculteur,oui,oui,Sport regulier,5 ans,Sein,oui,Chimiotherapie,,oncologie uniquement,oui,Avant a maladie,la natation,7,6,6,5,3,8,6,8,6,9,2,6,Vivant
+289,48,Femme,menagere,non,oui,Activite moderee,3 ans,Sein,non,Chimiotherapie;Chirurgical;hormonotherapie,mastectomie,oncologique,oui,Avant a maladie,des exercices abdominaux et des etirements,5,6,6,6,7,9,8,3,4,4,6,4,Vivant
+290,71,Femme,infirmiere,non,oui,Activite moderee,1 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie,oncologie,oui,Apres la maladie,le jogging leger et le yoga,3,3,3,6,3,3,5,7,6,4,4,6,Vivant
+291,36,Femme,vendeuse,non,non,Activite moderee,3 ans,Sein,non,Chimiotherapie,,oncologie,oui,Apres la maladie,la marche,9,5,7,6,7,5,7,4,3,4,4,4,Vivant
+292,58,Femme,couturiere,non,non,Activite moderee,2 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie radicale,oncologique,non,,,7,6,7,4,7,5,7,7,8,6,5,4,Vivant
+294,60,Femme,sans emploi,non,oui,Sport regulier,1 ans,Sein,non,Radiotherapie;Chimiotherapie;Chirurgical,tumorectomie,suivi oncologique standard,oui,Apres la maladie,le jogging leger,3,6,8,4,7,5,7,5,9,4,5,8,Vivant
+299,45,Femme,retraitee,non,non,Sedentaire,2 ans,Sein,non,Chimiotherapie,,oncologie,oui,Avant a maladie,des exercices de respiration,5,6,7,9,7,6,7,7,3,4,5,3,Vivant
+300,51,Femme,fonctionnaire,non,non,Activite moderee,1 ans,Sein,non,Chimiotherapie,,oncologie,oui,Avant a maladie,la marche,8,7,6,6,8,7,5,7,2,4,6,4,Vivant
+301,56,Femme,retraitee,non,non,Sedentaire,1 ans,Sein,non,Chirurgical,mastectomie,oncologie,non,,,5,4,3,4,2,3,1,9,7,6,8,4,Decede
+302,49,Homme,menagere,oui,non,Sport regulier,6 ans,Sein,non,Chimiotherapie;Chirurgical,tumorectomie,oncologie,oui,Avant a maladie,le jogging leger et la marche,9,5,7,5,5,3,5,6,4,5,6,3,Vivant
+303,37,Homme,fonctionnaire,non,oui,Sedentaire,3 ans,Sein,non,Radiotherapie;Chimiotherapie;Chirurgical,tumorectomie,oncologie,oui,Avant a maladie,des exercices abdominaux,4,7,5,2,8,6,5,6,8,8,8,7,Vivant
+304,49,Femme,menagere,oui,non,Sedentaire,1 ans,Sein,non,Radiotherapie;Chimiotherapie,,oncologie,oui,Avant a maladie,le jogging leger,10,6,8,7,7,5,7,5,4,4,5,2,Vivant
+308,37,Femme,secretaire,non,non,Sedentaire,1 ans,Sein,non,Radiotherapie;Chimiotherapie,,oncologique,non,,,4,4,7,8,5,2,4,7,6,7,7,7,Vivant
+310,29,Femme,institutrice,non,non,Activite moderee,1 ans,Sein,non,Radiotherapie;Chimiotherapie,,suivi oncologique standard,non,,,6,4,5,4,6,5,5,6,7,4,7,9,Vivant
+311,65,Femme,coiffeuse,non,oui,Activite moderee,1 ans,Sein,non,Chimiotherapie,,oncologie et medicamenteuse,oui,Avant a maladie,des exercices abdominaux et des exercices de kegel,7,7,6,6,7,5,7,5,9,4,7,5,Vivant
+312,44,Femme,menagere,non,non,Activite moderee,2 ans,Sein,oui,Chimiotherapie;Chirurgical,mastectomie radicale,oncologie,oui,Avant a maladie,des etirements,6,6,4,9,3,5,6,5,5,4,7,8,Vivant
+313,53,Femme,retraitee,non,oui,Sport regulier,1 ans,Sein,non,Chirurgical,tumorectomie,oncologie,oui,Avant a maladie,la marche et des etirements,7,8,9,8,4,5,7,8,4,3,2,4,Vivant
+315,63,Femme,commercante,non,non,Activite moderee,1 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie radicale,oncologie uniquement,non,,,4,4,3,5,2,3,4,8,6,8,6,6,Decede
+316,61,Femme,couturiere,non,oui,Activite moderee,4 ans,Sein,oui,Chimiotherapie;Chirurgical;hormonotherapie,mastectomie radicale,oncologique,oui,Avant a maladie,le yoga et des exercices de respiration,6,10,9,7,8,7,7,4,7,7,5,5,Vivant
+317,38,Femme,menagere,non,non,Sedentaire,1 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie radicale,suivi oncologique standard,non,,,5,3,3,4,7,3,5,8,6,8,6,4,Vivant
+318,41,Homme,menagere,non,oui,Sedentaire,1 ans,Sein,oui,Chimiotherapie;Chirurgical,tumorectomie,oncologique,oui,Avant a maladie,des exercices abdominaux,3,6,5,8,4,5,7,7,7,8,6,7,Vivant
+319,58,Femme,vendeuse,non,non,Sedentaire,2 ans,Sein,non,Chirurgical,mastectomie radicale,oncologie uniquement,non,,,5,5,4,5,5,3,6,8,5,9,7,5,Vivant
+320,34,Femme,infirmiere,non,oui,Activite moderee,1 ans,Sein,non,Chimiotherapie;Chirurgical,tumorectomie,oncologie et medicamenteuse,non,,,2,4,4,5,4,5,4,9,6,8,6,8,Vivant
+322,42,Femme,enseignante,non,non,Sedentaire,3 ans,Sein,oui,Chimiotherapie,,oncologique,oui,Avant a maladie,la marche et des etirements,4,6,7,6,6,5,6,5,7,9,7,8,Vivant
+324,55,Femme,coiffeuse,non,oui,Activite moderee,5 ans,Sein,non,Chirurgical,mastectomie,oncologie,oui,Avant a maladie,des exercices abdominaux et le velo,7,7,10,6,10,7,8,7,5,4,4,5,Vivant
+325,65,Homme,macon,non,oui,Activite moderee,2 ans,Sein,non,Chimiotherapie;Chirurgical,tumorectomie,oncologique,oui,Avant a maladie,le velo et des etirements,7,8,6,8,7,9,7,5,8,4,6,6,Vivant
+326,56,Femme,institutrice,non,oui,Sedentaire,2 ans,Sein,oui,Radiotherapie;Chimiotherapie;Chirurgical,tumorectomie,oncologie,non,,,2,2,5,3,2,2,4,9,7,9,8,6,Decede
+327,59,Femme,infirmiere,non,oui,Activite moderee,3 ans,Sein,non,hormonotherapie;Chirurgical,tumorectomie,oncologique,oui,Apres la maladie,des exercices de kegel,7,9,8,6,6,7,5,5,6,4,1,6,Vivant
+328,27,Femme,couturiere,non,oui,Sedentaire,1 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie radicale,oncologie,oui,Avant a maladie,la musculation legere,9,7,7,8,9,4,6,3,3,6,4,6,Vivant
+329,41,Femme,cultivatrice,non,non,Sedentaire,1 ans,Sein,non,Chimiotherapie;Chirurgical;hormonotherapie,mastectomie,oncologie uniquement,oui,Avant a maladie,le jogging leger et le velo,8,5,8,5,9,9,7,6,8,5,8,3,Vivant
+331,42,Femme,menagere,non,non,Sport regulier,1 ans,Sein,oui,Radiotherapie;Chimiotherapie;Chirurgical,mastectomie,oncologie,non,,,2,5,2,1,4,3,4,7,10,8,8,10,Decede
+333,46,Femme,enseignante,non,non,Activite moderee,4 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie radicale,oncologie et medicamenteuse,non,,,4,7,5,4,4,4,6,5,6,7,7,8,Vivant
+334,52,Femme,retraitee,non,non,Sedentaire,1 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie radicale,oncologie,non,,,5,3,4,6,6,1,6,6,5,4,7,9,Vivant
+336,58,Femme,infirmiere,non,non,Sedentaire,3 ans,Sein,non,Chimiotherapie,,oncologie et medicamenteuse,non,,,1,4,4,5,2,4,1,6,8,5,10,7,Decede
+338,53,Femme,commercante,non,non,Activite moderee,1 ans,Sein,non,Radiotherapie;Chimiotherapie;Chirurgical,mastectomie radicale,oncologie,non,,,4,5,6,5,6,4,8,7,6,8,5,6,Vivant
+339,58,Femme,commercante,non,oui,Sedentaire,1 ans,Sein,non,hormonotherapie;Chirurgical,mastectomie radicale,oncologie uniquement,non,,,5,1,2,1,3,2,4,9,7,7,7,9,Decede
+340,43,Femme,cultivatrice,non,non,Sport regulier,2 ans,Sein,non,Chirurgical,mastectomie,suivi oncologique standard,oui,Avant a maladie,la musculation legere et la marche,4,5,4,2,4,9,5,3,5,6,6,4,Vivant
+342,53,Femme,commercante,non,non,Activite moderee,4 ans,Sein,oui,hormonotherapie;Chirurgical,mastectomie,oncologie,oui,Avant a maladie,des exercices de kegel,4,7,5,5,3,6,3,8,5,5,10,6,Vivant
+343,37,Homme,sapeur pompier,oui,non,Sport regulier,1 ans,Sein,oui,Chimiotherapie,,suivi oncologique standard,oui,Avant a maladie,des etirements,10,8,6,9,6,7,8,4,4,3,2,4,Vivant
+344,38,Femme,coiffeuse,non,oui,Activite moderee,1 ans,Sein,non,Radiotherapie;Chimiotherapie;Chirurgical,mastectomie radicale,oncologique,oui,Avant a maladie,des exercices de respiration et le jogging leger,7,8,6,8,8,7,9,5,1,5,2,5,Vivant
+345,54,Femme,cultivatrice,non,non,Sedentaire,4 ans,Sein,non,Chimiotherapie,,oncologie,oui,Avant a maladie,la musculation legere et le velo,6,3,8,6,5,6,5,6,6,9,6,3,Vivant
+350,42,Femme,commercante,oui,oui,Activite moderee,1 ans,Sein,non,Chimiotherapie,,oncologique,oui,Apres la maladie,le yoga,4,5,7,4,6,6,3,7,6,7,6,4,Vivant
+356,49,Femme,agricultrice,oui,oui,Activite moderee,3 ans,Sein,non,Chirurgical,mastectomie,oncologie,oui,Avant a maladie,la musculation legere,8,7,9,8,7,9,6,6,6,4,3,6,Vivant
+357,40,Femme,couturiere,non,non,Activite moderee,2 ans,Sein,non,Radiotherapie;Chimiotherapie;Chirurgical,tumorectomie,oncologique,non,,,3,4,4,6,6,4,4,5,5,8,9,5,Vivant
+359,39,Femme,menagere,non,oui,Sport regulier,3 ans,Sein,non,Chirurgical,mastectomie,oncologique,oui,Avant a maladie,des exercices abdominaux,6,6,7,5,5,9,7,4,5,5,3,6,Vivant
+360,36,Femme,agricultrice,non,non,Sedentaire,1 ans,Sein,oui,Chimiotherapie,,oncologique,oui,Avant a maladie,la musculation legere,10,7,7,9,7,7,9,6,5,5,4,3,Vivant
+365,40,Femme,institutrice,non,non,Sedentaire,1 ans,Sein,non,Chimiotherapie,,oncologie,oui,Apres la maladie,des exercices de kegel,7,5,9,7,6,9,7,3,5,3,4,6,Vivant
+367,26,Femme,secretaire,non,oui,Sedentaire,1 ans,Sein,non,hormonotherapie;Chirurgical,mastectomie radicale,oncologie et medicamenteuse,oui,Avant a maladie,la marche et des exercices de kegel,7,6,9,7,10,6,7,3,7,2,4,7,Vivant
+369,58,Femme,infirmiere,non,oui,Sedentaire,5 ans,Sein,oui,Chimiotherapie,,oncologie et medicamenteuse,non,,,3,7,1,7,4,2,4,9,4,7,2,6,Vivant
+370,67,Femme,infirmiere,non,oui,Sedentaire,1 ans,Sein,non,hormonotherapie;Chirurgical,tumorectomie,medicamenteux et activite physique,oui,Avant a maladie,la musculation legere et la natation,6,8,9,7,8,9,8,6,5,3,5,6,Vivant
+371,56,Femme,institutrice,non,oui,Sedentaire,2 ans,Sein,non,Chimiotherapie,,oncologie,non,,,4,3,4,3,3,6,4,5,8,8,3,7,Vivant
+372,49,Femme,commercante,non,non,Activite moderee,3 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie radicale,oncologie et medicamenteuse,oui,Avant a maladie,le yoga,4,8,7,8,9,4,8,6,8,4,5,7,Vivant
+374,45,Femme,agricultrice,non,non,Activite moderee,3 ans,Sein,non,Chimiotherapie;Chirurgical,tumorectomie,oncologie,oui,Avant a maladie,le jogging leger et le yoga,7,7,9,7,7,8,8,2,5,4,7,6,Vivant
+378,51,Homme,employe de bureau,oui,oui,Sport regulier,1 ans,Sein,oui,Chimiotherapie,,oncologique,oui,Avant a maladie,la marche,5,7,4,4,4,5,7,8,6,5,5,6,Vivant
+379,54,Femme,infirmiere,non,non,Activite moderee,2 ans,Sein,non,Chimiotherapie;Chirurgical;hormonotherapie,mastectomie,oncologique,oui,Avant a maladie,des exercices de kegel et la marche,5,4,5,6,6,6,6,7,6,7,6,5,Vivant
+381,63,Femme,sans emploi,non,oui,Sport regulier,1 ans,Sein,non,Radiotherapie;Chimiotherapie;Chirurgical,mastectomie,oncologie,non,,,7,4,4,5,8,7,5,7,7,9,8,4,Vivant
+383,58,Femme,vendeuse,oui,non,Sport regulier,5 ans,Sein,oui,Chimiotherapie;Chirurgical,mastectomie,oncologie,non,,,4,3,3,3,4,6,4,5,6,4,2,7,Vivant
+384,47,Femme,agricultrice,non,oui,Sport regulier,1 ans,Sein,non,Chimiotherapie;Chirurgical,tumorectomie,oncologie,oui,Avant a maladie,la marche et la natation,8,8,6,9,8,5,7,5,3,4,3,7,Vivant
+385,41,Femme,coiffeuse,oui,oui,Activite moderee,1 ans,Sein,oui,Radiotherapie;Chimiotherapie;Chirurgical,tumorectomie,medicamenteux et activite physique,oui,Avant a maladie,la musculation legere,4,4,7,2,6,7,5,3,6,3,5,5,Vivant
+386,47,Femme,menagere,non,non,Sport regulier,4 ans,Sein,non,hormonotherapie;Chirurgical,tumorectomie,oncologie,oui,Avant a maladie,la musculation legere,5,6,5,5,4,6,3,7,7,8,10,2,Vivant
+387,48,Femme,retraitee,non,non,Activite moderee,4 ans,Sein,non,Chimiotherapie,,oncologie uniquement,oui,Avant a maladie,le yoga,7,7,7,6,8,8,10,6,7,2,5,4,Vivant
+388,47,Femme,coiffeuse,non,non,Activite moderee,3 ans,Sein,non,hormonotherapie;Chirurgical,tumorectomie,medicamenteux et activite physique,non,,,6,4,5,4,6,2,5,6,8,9,9,8,Vivant
+389,33,Femme,fonctionnaire,non,oui,Activite moderee,1 ans,Sein,oui,Chimiotherapie;Chirurgical,tumorectomie,oncologie,non,,,3,3,3,3,2,4,3,9,9,7,8,9,Decede
+392,47,Femme,infirmiere,non,oui,Activite moderee,1 ans,Sein,oui,Chimiotherapie,,oncologie,non,,,1,1,2,8,3,3,3,9,9,6,8,10,Decede
+393,49,Femme,vendeuse,non,non,Sedentaire,1 ans,Sein,non,Chimiotherapie,,oncologique,oui,Avant a maladie,la marche,7,8,7,7,8,7,5,7,6,6,3,6,Vivant
+396,36,Femme,enseignante,non,oui,Sedentaire,1 ans,Sein,non,hormonotherapie;Chirurgical,tumorectomie,suivi oncologique standard,oui,Avant a maladie,la musculation legere,7,4,6,4,4,6,7,8,7,9,6,7,Vivant
+398,56,Femme,commercante,non,non,Activite moderee,1 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie radicale,oncologie,oui,Avant a maladie,la natation et le velo,4,4,5,6,3,6,3,5,4,3,6,7,Vivant
+400,29,Femme,menagere,non,oui,Sport regulier,6 ans,Sein,oui,Radiotherapie;Chimiotherapie,,oncologie et medicamenteuse,oui,Avant a maladie,des exercices de kegel,4,5,6,5,7,4,5,7,7,7,8,8,Vivant
+402,40,Femme,commercante,non,oui,Sedentaire,1 ans,Sein,oui,Radiotherapie;Chimiotherapie,,oncologie et medicamenteuse,oui,Avant a maladie,la marche,6,6,7,7,6,8,6,4,7,7,8,6,Vivant
+405,55,Femme,retraitee,oui,non,Sport regulier,1 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie radicale,oncologie,non,,,4,7,6,5,6,5,5,9,5,4,8,7,Vivant
+406,53,Femme,commercante,non,non,Sedentaire,3 ans,Sein,non,Chirurgical,tumorectomie,oncologique,oui,Avant a maladie,le velo,5,8,6,7,8,6,7,4,5,6,3,7,Vivant
+410,40,Femme,institutrice,non,non,Sedentaire,1 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie,suivi oncologique standard,oui,Apres la maladie,le velo et des exercices abdominaux,5,4,8,6,9,9,8,5,2,4,7,6,Vivant
+411,50,Femme,vendeuse,non,non,Sedentaire,1 ans,Sein,non,Chimiotherapie;Chirurgical;hormonotherapie,mastectomie,oncologie et medicamenteuse,non,,,5,5,5,3,5,6,6,5,3,6,5,9,Vivant
+414,43,Femme,commercante,non,oui,Activite moderee,5 ans,Sein,oui,Chimiotherapie;Chirurgical,tumorectomie,medicamenteux et activite physique,oui,Apres la maladie,des etirements et la marche,4,5,5,5,7,4,6,4,5,7,7,4,Vivant
+416,61,Femme,menagere,non,oui,Activite moderee,5 ans,Sein,non,Radiotherapie;Chimiotherapie,,oncologie,oui,Avant a maladie,la marche et des etirements,6,5,6,6,4,3,6,4,5,7,4,8,Vivant
+417,46,Femme,commercante,non,non,Sport regulier,3 ans,Sein,non,Chimiotherapie;Chirurgical;hormonotherapie,mastectomie,oncologique,oui,Avant a maladie,la musculation legere et des exercices de kegel,7,6,8,6,5,6,4,9,7,5,6,7,Vivant
+418,75,Femme,infirmiere,non,oui,Activite moderee,1 ans,Sein,oui,Chimiotherapie;Chirurgical;hormonotherapie,mastectomie,oncologie et medicamenteuse,non,,,3,4,3,6,1,3,4,9,10,7,4,9,Decede
+419,44,Femme,agricultrice,non,oui,Sedentaire,2 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie radicale,oncologie,oui,Avant a maladie,la marche et des exercices de kegel,8,7,6,9,8,7,7,4,4,4,2,4,Vivant
+420,46,Femme,commercante,non,oui,Activite moderee,1 ans,Sein,non,Radiotherapie;Chimiotherapie,,oncologie,oui,Avant a maladie,le yoga,9,5,5,7,7,8,9,4,6,4,5,6,Vivant
+422,50,Femme,menagere,non,non,Activite moderee,1 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie radicale,oncologie,non,,,3,2,5,5,3,4,3,6,7,6,7,8,Decede
+423,57,Femme,retraitee,non,non,Sedentaire,1 ans,Sein,non,hormonotherapie;Chirurgical,mastectomie,oncologie,non,,,7,6,8,5,4,4,4,8,7,4,7,7,Vivant
+424,44,Femme,enseignante,non,oui,Sedentaire,3 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie radicale,medicamenteux et activite physique,non,,,6,6,4,4,4,7,5,7,8,7,7,9,Vivant
+426,53,Femme,agricultrice,non,oui,Activite moderee,1 ans,Sein,non,Radiotherapie;Chimiotherapie;Chirurgical,mastectomie radicale,oncologie,oui,Avant a maladie,le yoga et la marche,5,8,8,9,7,6,6,5,2,6,5,6,Vivant
+427,36,Femme,agricultrice,non,oui,Sedentaire,1 ans,Sein,non,Radiotherapie;Chimiotherapie;Chirurgical,mastectomie radicale,oncologie,oui,Avant a maladie,des exercices de kegel et la marche,8,8,6,6,7,7,7,5,2,6,5,6,Vivant
+429,47,Femme,vendeuse,oui,oui,Sedentaire,3 ans,Sein,oui,Radiotherapie;Chimiotherapie;Chirurgical,mastectomie,medicamenteux et activite physique,oui,Avant a maladie,le velo,6,4,3,4,6,3,4,2,8,6,4,5,Vivant
+430,74,Femme,agricultrice,non,non,Activite moderee,1 ans,Sein,oui,Radiotherapie;Chimiotherapie;Chirurgical,mastectomie,oncologie,oui,Avant a maladie,la marche et la musculation legere,7,4,6,5,6,5,4,6,6,6,6,9,Vivant
+432,34,Femme,menagere,non,oui,Activite moderee,4 ans,Sein,non,Chimiotherapie,,oncologie et medicamenteuse,oui,Avant a maladie,la marche et la natation,7,7,9,7,8,5,9,4,3,3,1,6,Vivant
+435,46,Femme,secretaire,non,oui,Sedentaire,1 ans,Sein,non,Radiotherapie;Chimiotherapie,,medicamenteux et activite physique,oui,Apres la maladie,la musculation legere,5,6,4,5,4,7,6,5,8,4,6,7,Vivant
+436,44,Femme,vendeuse,non,oui,Sedentaire,4 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie radicale,oncologie,non,,,3,3,6,8,5,7,6,5,8,4,7,6,Vivant
+437,46,Femme,cultivatrice,non,non,Activite moderee,3 ans,Sein,non,Chimiotherapie,,medicamenteux et activite physique,oui,Avant a maladie,la marche,6,6,8,5,3,4,4,8,9,6,7,8,Vivant
+439,37,Femme,retraitee,non,oui,Activite moderee,1 ans,Sein,non,Chimiotherapie;Chirurgical,tumorectomie,oncologique,oui,Avant a maladie,la marche et le yoga,7,9,8,6,7,7,6,5,6,1,5,2,Vivant
+440,54,Femme,vendeuse,non,non,Sedentaire,3 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie,oncologie uniquement,non,,,4,5,4,6,2,7,8,6,6,4,6,8,Vivant
+441,35,Femme,fonctionnaire,non,oui,Sedentaire,4 ans,Sein,oui,Chimiotherapie;Chirurgical;hormonotherapie,tumorectomie,oncologique,non,,,6,6,6,4,6,4,5,6,5,7,8,5,Vivant
+445,67,Femme,commercante,non,non,Activite moderee,1 ans,Sein,non,Chirurgical,mastectomie radicale,oncologie uniquement,non,,,3,4,2,1,7,2,4,8,7,8,8,8,Decede
+446,55,Femme,enseignante,non,non,Sedentaire,4 ans,Sein,oui,Chimiotherapie;Chirurgical,mastectomie,oncologie,non,,,1,7,2,5,6,6,9,4,8,6,8,6,Vivant
+448,59,Femme,commercante,non,non,Sedentaire,3 ans,Sein,non,Chimiotherapie;Chirurgical,tumorectomie,oncologique,oui,Avant a maladie,le jogging leger,6,5,2,6,4,4,4,7,4,8,8,6,Vivant
+449,43,Femme,infirmiere,non,non,Sport regulier,5 ans,Sein,non,Chirurgical,mastectomie radicale,oncologie,oui,Avant a maladie,des exercices de kegel et le jogging leger,9,6,7,7,9,7,9,7,5,5,7,5,Vivant
+451,53,Femme,menagere,non,non,Sedentaire,1 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie radicale,oncologique,oui,Avant a maladie,des exercices abdominaux,5,6,5,7,7,8,5,5,2,3,6,6,Vivant
+452,58,Femme,secretaire,non,non,Sedentaire,1 ans,Sein,non,Chimiotherapie,,oncologie uniquement,non,,,4,4,7,5,5,4,5,5,8,6,5,8,Vivant
+453,66,Femme,agricultrice,oui,non,Sport regulier,2 ans,Sein,non,Chimiotherapie,,oncologique,oui,Avant a maladie,la marche,5,5,6,6,6,6,5,5,6,6,5,7,Vivant
+455,46,Femme,sans emploi,non,oui,Activite moderee,1 ans,Sein,oui,Chimiotherapie;Chirurgical,tumorectomie,medicamenteux et activite physique,oui,Apres la maladie,la natation et le jogging leger,6,10,5,7,5,7,7,3,5,3,2,6,Vivant
+456,52,Femme,commercante,non,oui,Activite moderee,3 ans,Sein,oui,hormonotherapie;Chirurgical,tumorectomie,oncologie uniquement,non,,,2,3,4,1,3,5,2,9,10,8,8,8,Decede
+457,43,Homme,gerant,non,oui,Activite moderee,1 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie radicale,oncologique,non,,,6,5,4,4,2,6,9,9,10,2,7,7,Vivant
+458,52,Femme,enseignante,non,non,Activite moderee,1 ans,Sein,non,hormonotherapie;Chirurgical,tumorectomie,oncologie uniquement,non,,,3,4,6,6,4,6,6,3,6,8,3,1,Vivant
+459,41,Femme,enseignante,non,oui,Sedentaire,2 ans,Sein,oui,Chimiotherapie;Chirurgical,mastectomie radicale,oncologie uniquement,oui,Avant a maladie,la marche,4,4,4,5,7,8,4,5,7,8,6,5,Vivant
+460,58,Femme,infirmiere,non,non,Sedentaire,1 ans,Sein,oui,Chimiotherapie,,oncologique,non,,,4,6,4,6,5,8,6,3,8,8,7,5,Vivant
+461,68,Femme,commercante,non,oui,Sport regulier,3 ans,Sein,non,Radiotherapie;Chimiotherapie,,oncologie,oui,Apres la maladie,la marche et la natation,9,9,7,9,6,5,7,4,7,8,5,3,Vivant
+463,49,Femme,menagere,non,non,Sedentaire,1 ans,Sein,oui,Chimiotherapie;Chirurgical;hormonotherapie,tumorectomie,oncologie,non,,,5,3,3,4,3,4,4,8,7,7,7,9,Decede
+464,55,Homme,ingenieur,non,oui,Activite moderee,1 ans,Sein,oui,Chimiotherapie;Chirurgical,tumorectomie,oncologique,non,,,5,4,4,3,4,3,3,9,7,6,7,10,Decede
+467,47,Femme,agricultrice,non,oui,Sedentaire,3 ans,Sein,non,Chirurgical,mastectomie radicale,oncologie uniquement,oui,Apres la maladie,des exercices de kegel,10,6,7,7,7,6,6,7,6,6,5,5,Vivant
+469,72,Femme,menagere,non,oui,Sedentaire,1 ans,Sein,non,Chimiotherapie;Chirurgical,mastectomie,suivi oncologique standard,non,,,3,7,6,7,5,4,4,10,6,6,6,6,Vivant
